@@ -13,6 +13,10 @@ public class Testcases {
 	{
 		System.out.println("Test case 3");
 	}
+	public void test4()
+	{
+		System.out.println("Test case 3");
+	}
 
 
 }
